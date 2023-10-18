@@ -1,0 +1,5 @@
+class aiml{
+   public static void main(String args[]){
+   system.out.println("WELCOME TO MY REPOSITORY");
+  }
+}
